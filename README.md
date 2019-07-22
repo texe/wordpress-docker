@@ -7,3 +7,5 @@ This is simple docker-compose file example. This file allow you to run
 - MySQL Data Base engine
 - latest version of Wordpress
 in Docker technology.
+
+If you have any questions feel free to contact me by e-mail.
